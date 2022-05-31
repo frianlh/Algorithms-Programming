@@ -43,3 +43,6 @@ plt.legend(["Number of infection per-day","Total infected"],facecolor="w") #Lege
 plt.show() #Menampilkan plot
 ```
 Output:
+<p align="center">
+  <img src="https://github.com/frianlh/Algorithms-Programming/blob/9cd04f69f585a2f37247932d465dbba6b8434d45/Quest2/Curve%20of%20COVID-19%20Infection%20Rate.png"
+</p>
