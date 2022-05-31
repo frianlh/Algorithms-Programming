@@ -1,4 +1,3 @@
-
 ## Quest. 1 ##
 Buatlah kode yang akan meminta input berupa array berisikan angka tidak berurut dan sebuah angka $(n)$. Setelah itu, kode akan mengerluarkan output berupa array dengan angka yang sudah diurutkan serta mencari apakah terdapat 2 angka didalam array yang bila dikalikan akan menghasilkan $(n)$.
 
