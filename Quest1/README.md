@@ -1,5 +1,6 @@
 ## Quest. 1 ##
-Buatlah kode yang akan meminta input berupa array berisikan angka tidak berurut dan sebuah angka $(n)$. Setelah itu, kode akan mengerluarkan output berupa array dengan angka yang sudah diurutkan serta mencari apakah terdapat 2 angka didalam array yang bila dikalikan akan menghasilkan $(n)$.
+Buatlah kode yang akan meminta input berupa array berisikan angka tidak berurut dan sebuah angka $(n)$.
+Setelah itu, kode akan mengerluarkan output berupa array dengan angka yang sudah diurutkan serta mencari apakah terdapat 2 angka didalam array yang bila dikalikan akan menghasilkan $(n)$.
 
 Bila ada, akan mengerluarkan tulisan “Iya, ada 2 bilangan di dalam array yang bila dikalikan akan menghasilkan $n$”. Namun bila tidak ada, akan mengerluarkan “Tidak, tidak ada 2 bilangan di dalam array yang bila dikalikan menghasilkan $n$”.
 
