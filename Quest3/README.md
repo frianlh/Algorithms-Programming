@@ -1,5 +1,8 @@
 # Quest. 3 #
-Pada sebuah daerah terdapat $n$ warga, misal $W_{1}, W_{2}, W_{3}, ..., W_{n}$ dimana diketahui bahwa probabilitas warga ke-i $(W_{i})$ tidak terinfeksi COVID-19 saat berada di pusat perbelanjaan adalah $\frac{1}{3i-2}$.
+Pada sebuah daerah terdapat $n$ warga, misal
+$W_{1}, W_{2}, W_{3}, ..., W_{n}$
+dimana diketahui bahwa probabilitas warga ke-i $(W_{i})$ tidak terinfeksi COVID-19 saat berada di pusat perbelanjaan adalah
+$\frac{1}{3i-2}$.
 
 Buatlah algoritma yang dapat mengaproksimasi probabilitas bahwa lebih dari 90% warga yang berada di pusat perbelanjaan terinfeksi COVID-19 di saat terdapat $n$ warga di pusat perbelanjaan menggunakan simulasi 10000 kejadian terdapat $n$ warga di pusat perbelanjaan. (Gunakan 4 angka di belakang koma)
 
